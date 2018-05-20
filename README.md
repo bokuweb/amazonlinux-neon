@@ -1,8 +1,8 @@
 # amazonlinux-neon
 
-A AmazonLinux + NEON(Rust + Node) docker container
+An AmazonLinux with NEON(Rust + Node) docker container
 
-It's on [docker-hub](https://hub.docker.com/) and [github](https://github.com/bokuweb/amazonlinux-neon/)
+It's on [docker-hub](https://hub.docker.com/r/bokuweb/amazonlinux-neon/) and [github](https://github.com/bokuweb/amazonlinux-neon/)
 
 ## tags and links
 * `latest` [(master/Dockerfile)](https://github.com/bokuweb/amazonlinux-neon/blob/master/Dockerfile)
